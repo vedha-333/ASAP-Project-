@@ -1,0 +1,12 @@
+{
+  "name": "asap-project---initialize-with-readme",
+  "version": "1.0.0",
+  "description": "A simple task management application that allows users to create, update, and delete tasks.",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC"
+}
